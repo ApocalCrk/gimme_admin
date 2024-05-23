@@ -2,8 +2,8 @@
 import * as React from 'react';
 import Grid from '@mui/material/Grid';
 import ParentCard from '@/components/dashboard/parentCard';
-import CustomFormLabel from '@/components/forms/customFormLabel';
-import CustomTextField from '@/components/forms/customTextField';
+import CustomTextField from '@/components/forms/CustomTextField';
+import CustomFormLabel from '@/components/forms/CustomFormLabel';
 import Button from '@mui/material/Button';
 import RouterLink from 'next/link';
 import { paths } from '@/paths';
